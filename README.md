@@ -7,6 +7,7 @@
 This project is a simple and responsive flight booking landing page that allows users to explore flight options. It focuses on a clean user interface and modern design.
 
 💻 Technologies Used
+
 •	HTML
 
 •	CSS
